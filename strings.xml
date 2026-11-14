@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reel Counter</string>
+    <string name="service_desc">Counts Instagram Reels and YouTube Shorts you watch, shows the count at the top of the screen, and blocks the apps after your daily limit. Nothing leaves your phone.</string>
+</resources>
